@@ -6,7 +6,7 @@ public class Exp1 {
 
 		int num, rem;
 		num = 1234567289;
-		int oddcount=0;
+		int oddcount=00;
 		
 
 		while (num > 0) {
