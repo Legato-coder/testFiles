@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Add2method {
-	//this method will add the elements at the required index.
+	//thisss method will add the elements at the required index.
 		public static void main(Integer[] args) {
 			
 			List<String> ab=new ArrayList<String>();
